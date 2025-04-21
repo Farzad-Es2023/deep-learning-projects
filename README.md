@@ -1,2 +1,2 @@
 # deep-learning-projects
-deep learning projects using Pytorch
+here is some of my deep learning projects using Pytorch
